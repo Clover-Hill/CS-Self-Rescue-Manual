@@ -25,7 +25,7 @@
 
 <!-- TABLE OF CONTENTS -->
 
-<details>
+<details open>
   <summary>Table of Contents</summary>
   <ol>
     <li>
@@ -47,7 +47,7 @@
         <li><a href="#analysis">Analysis</a></li>
         <li><a href="#linear-algebra">Linear Algebra</a></li>
         <li><a href="#statistics">Statistics</a></li>
-        <li><a href="#advance-maths">Advance Topics</a></li>
+        <li><a href="#advanced-maths">Advanced Topics</a></li>
       </ul>
     </li>
     <li>
@@ -69,7 +69,7 @@
       <a href="#fundation-subjects">Fundation Subjects</a>
       <ul>
         <li><a href="#cs-tools">CS Tools</a></li>
-        <li><a href="#advance-programming">Advance Programming</a></li>
+        <li><a href="#advanced-programming">Advanced Programming</a></li>
         <li><a href="#algorithms">Algorithms</a></li>
         <li><a href="#digital-systems">Digital Systems</a></li>
       </ul>
@@ -79,12 +79,12 @@
       <ul>
         <li><a href="#software-construction">Software Construction</a></li>
         <li><a href="#computer-systems">Computer Systems</a></li>
-        <li><a href="#advance-algorithms">Advance Algorithms</a></li>
+        <li><a href="#advanced-algorithms">Advanced Algorithms</a></li>
         <li><a href="#machine-learning">Machine Learning</a></li>
       </ul>
     </li>
     <li>
-      <a href="#advance-subjects">Advance Subjects</a>
+      <a href="#advance-subjects">Advanced Subjects</a>
       <ul>
         <li><a href="#distributed-systems">Distributed Systems</a></li>
         <li><a href="#computer-network">Computer Network</a></li>
@@ -92,7 +92,7 @@
         <li><a href="#compilers">Compilers</a></li>
         <li><a href="#computer-security">Computer Security</a></li>
         <li><a href="#deep-learning">Deep Learning</a></li>
-        <li><a href="#advance-machine-learning"></a>Advance Machine Learning</li>
+        <li><a href="#advanced-machine-learning">Advanced Machine Learning</a></li>
       </ul>
     </li>
     <li><a href="#license">License</a></li>
@@ -122,12 +122,11 @@ There are already many projects about learning CS by yourself online, so first I
 - [MIT Challenge by Scott H. Young](https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/)
 <br />
   This is the first project that I've come across while searching for resources. The arthor finished all MIT CS undergraduate courses in merely one year. Definitely make sure you check out his learning experience and his mindset while learning, which I find most helpful.
-<br />
+
   He's also written several books about learning and I've taken several advice from his book [Ultralearning](https://www.scotthyoung.com/blog/ultralearning/). You can also check [my note on Ultralearning](Other%20Resources/Ultralearning%20Notes.pdf). 
-<br />
+
 - [Teach Yourself CS](https://teachyourselfcs.com) (A very detailed and structured guide.)
 - [CS-Self-Learning](https://csdiy.wiki) (Written by a PKU undergraduate, very comprehensive.)
-<br />
 
 Then I am going to list some common websites to find online courses you need. Props to all the universites and organiztion for sharing the knowledge online!
 - [Libgen](https://libgen.rs)
@@ -142,7 +141,6 @@ Then I am going to list some common websites to find online courses you need. Pr
   (Popular online learning website. However a lot of courses are much easier than actually taught in class)
 - [Edx](https://edx.org)
   (Similar to coursera. Most courses are from MIT and Harvard)
-<br />
 
 A lot of other great courses are hosted on an individual website. You can first get the course number from the following websites and then search for course material on [Google](https://www.google.com), [Youtube](https://www.youtube.com) or [Bilibili](https://bilibili.com).
 - [MIT Course List](http://student.mit.edu/catalog/m6a.html)
@@ -173,6 +171,171 @@ Since [MIT OpenCourseWare](https://ocw.mit.edu/index.html) has the most courses 
 With all the resources mentioned above, I can safely say that you can make your own learning program now customized for your goal. Feel free to fork this repo and make your own roadmap, and don't forget to leave this project a star :star_struck: .
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- Maths -->
+## Maths
+### Intro
+Calculus, matrix manipulation and probability are mandated. However, I believe some exposure to rigorous math is helpful for future learning, therefore some books about analysis and advanced algebra will also be recommended. After that, you can select topics based on your interest and time.
+### Discrete Maths
+
+1. UCB-CS70-Discrete Math and Probability theory
+
+    - [Video Lecture(Spring 2015)](https://www.youtube.com/watch?v=LaKt90H4p6Q&list=PLzAv_uHZw7dTI2e0F8-lxxOWV9zXMzwNE)
+
+    - [Course Resources](https://github.com/PKUFlyingPig/UCB-CS70)
+
+2. MIT-6.042J-Mathematics for Computer Science
+
+    - [MIT OCW Course Page](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/index.htm)
+
+    - [MIT Open Library Page](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/course/)
+### Information Theory
+
+1. MIT-6.050J-Information and Entropy
+
+    - [MIT OCW Course Page](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-050j-information-and-entropy-spring-2008/index.htm)
+
+    - [MIT Textbook](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-050j-information-and-entropy-spring-2008/syllabus/MIT6_050JS08_textbook.pdf)
+
+2. Cambridge-The Information Theory, Patter Recognition, and Neural Networks
+
+    - [Video Lectures](https://www.youtube.com/watch?v=BCiZc0n6COY&list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6)
+   
+    - [Slides](http://www.inference.org.uk/mackay/itprnn/Slides.shtml)
+   
+    - [Book](http://www.inference.org.uk/mackay/itila/)
+
+### Analysis
+
+1. MIT-18.01&18.02-Calculus
+    
+    - [MIT Open Library Page](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/course/)
+    
+2. Understanding Analysis-Stephen Abbott (Book)
+
+3. Analysis-Terence Tao (Book)
+    
+### Linear Algebra
+
+1. MIT-18.06
+
+    - [MIT Open Library Page](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+18.06SC+2T2019/course/)
+
+2. Linear Algebra Done Right-Sheldon Axler (Book)
+
+    - [Arthor's Explanation](https://www.bilibili.com/video/av17050168/?p=1)
+    
+    - [Problemset Solution](https://linearalgebras.com/)
+    
+3. [3Blue1Brown Youtube Channel](https://www.youtube.com/c/3blue1brown)
+
+### Statistics
+
+1. MIT-6.041-Probabilistic Systems Analysis and Applied Probability
+    
+    - [MIT OCW Page](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/index.htm)
+    
+    - [Video Lecture](https://www.youtube.com/watch?v=j9WZyLZCBzs&list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8)
+
+2. MIT-18.650-Statistics for Application
+
+    - [MIT OCW Page](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/index.htm)
+
+3. UCB-CS 126-Probability Theory(Advanced)
+   
+    - [Textbook](https://link.springer.com/content/pdf/10.1007%2F978-3-030-49995-2.pdf)
+    
+    - [Jupyter Notebook](https://jeanwalrand.github.io/PeecsJB/intro.html)
+
+    - [Course Resources](https://inst.eecs.berkeley.edu/~ee126/fa20/content.html)
+
+### Advanced maths
+
+1. Stanford-EE 364A/B-Convex Optimization
+
+    - [364A Course Page](https://see.stanford.edu/Course/EE364A)
+
+    - [364B Course Page](https://see.stanford.edu/Course/EE364B)
+    
+    - [Newer Version of 364A Video Lecture](https://www.youtube.com/watch?v=VNON98dKjno&list=PLoCMsyE1cvdXeoqd1hGaMBsCAQQ6otUtO)
+
+2. MIT-18.03-Differential Equations
+
+    - [MIT OCW Page](https://ocw.mit.edu/courses/mathematics/18-03sc-differential-equations-fall-2011/)
+    
+    - [Video Lectures](https://www.youtube.com/watch?v=76WdBlGpxVw&list=PL64BDFBDA2AF24F7E)
+
+3. MIT-18.330-Introduction to numerical analysis
+
+    - [Video Lectures](https://www.dropbox.com/sh/ubkqwrqxnukgllc/AAA2cH9r7YQL7WmYVt-bblxta?dl=0)
+    
+    - [Problem Sets](https://github.com/PKUFlyingPig/MIT18.330)
+    
+    - [MIT OCW Page](https://ocw.mit.edu/courses/mathematics/18-330-introduction-to-numerical-analysis-spring-2012/)
+
+<!-- Natrue Science -->
+## Nature Science
+### Intro
+In the MIT Program, two physics courses, one chemistry course and one biology course are mandated. It's true that interdisciplinary fields are becoming more and more popular and promising, I hold the view that an introductory level of knowledge on nature science is enough for a student aimed at Computer Science. In the future, if you are interested in a particular field, just learn it by then. You can't learn everything, PRIORITIZE your time!
+
+Therefore, I will only list some introductory course below.
+
+### Physics
+- [MIT 8.01 Mechanics](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.01.1x+3T2018/about)
+
+- [MIT 8.02 Electricity and Magnetism](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.02.1x+1T2019/about)
+
+- [MIT 8.03 Vibrations and Waves](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.03x+1T2020/about)
+
+- [MIT 8.370 Quantum Information](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.370.1x+1T2018/about)
+
+### Chemistry
+- [MIT 5.111 Principles of Chemical Science](https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/index.htm)
+
+### Biology
+- [MIT 7.016 Introductory Biology](https://ocw.mit.edu/courses/biology/7-016-introductory-biology-fall-2018/index.htm)
+
+<!-- Introductory Subjects -->
+## Introductory Subjects
+### Introductory Course
+### Basic Programming
+
+<!-- Fundation Subjects -->
+## Fundation Subjects
+### CS Tools
+
+### Advanced programming
+
+### Algorithms
+
+### Digital Systems
+
+<!-- Header Subjects -->
+## Header Subjects
+### Software Construction
+
+### Computer Systems
+
+### Advanced Algorithms
+
+### Machine Learning
+
+<!-- Advanced Subjects -->
+## Advanced Subjects
+### Distributed Systems
+
+### Computer Network
+
+### Database
+
+### Compilers
+
+### Computer Security
+
+### Deep Learning
+
+### Advanced Machine Learning
+
 
 <!-- License -->
 
