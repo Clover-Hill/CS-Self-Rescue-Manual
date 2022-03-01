@@ -23,6 +23,7 @@
 
 </div>
 
+---
 <!-- TABLE OF CONTENTS -->
 
 <details open>
@@ -93,6 +94,7 @@
         <li><a href="#compilers">Compilers</a></li>
         <li><a href="#computer-security">Computer Security</a></li>
         <li><a href="#deep-learning">Deep Learning</a></li>
+        <li><a href="#reinforcement-learning">Deep Learning</a></li>
         <li><a href="#advanced-machine-learning">Advanced Machine Learning</a></li>
       </ul>
     </li>
@@ -103,6 +105,7 @@
   </ol>
 </details>
 
+---
 <!-- ABOUT THE PROJECT -->
 
 ## Introduction
@@ -110,6 +113,7 @@ Firstly,some self-introduction: I am currently(2021) an undergraduate student at
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+---
 <!-- GETTING STARTED -->
 
 ## Getting Started
@@ -188,14 +192,15 @@ With all the resources mentioned above, I can safely say that you can make your 
 <p align="right">(<a href="#top">back to top</a>)</p>
 </details>
 
+---
 <!-- Maths -->
 ## Maths
 ### Intro
 Calculus, matrix manipulation and probability are mandated. However, I believe some exposure to rigorous math is helpful for future learning, therefore some books about analysis and advanced algebra will also be recommended. After that, you can select topics based on your interest and time.
 
-<details open>
-
 ### Discrete Maths
+
+<details>
 
 1. UCB-CS70-Discrete Math and Probability theory
 
@@ -208,7 +213,12 @@ Calculus, matrix manipulation and probability are mandated. However, I believe s
     - [MIT OCW Course Page](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/index.htm)
 
     - [MIT Open Library Page](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/course/)
+    
+</details>
+
 ### Information Theory
+
+<details>
 
 1. MIT-6.050J-Information and Entropy
 
@@ -224,7 +234,11 @@ Calculus, matrix manipulation and probability are mandated. However, I believe s
    
     - [Book](http://www.inference.org.uk/mackay/itila/)
 
+</details>
+
 ### Analysis
+
+<details>
 
 1. MIT-18.01&18.02-Calculus
     
@@ -234,7 +248,11 @@ Calculus, matrix manipulation and probability are mandated. However, I believe s
 
 3. Analysis-Terence Tao (Book)
     
+</details>
+
 ### Linear Algebra
+
+<details>
 
 1. MIT-18.06
 
@@ -248,7 +266,11 @@ Calculus, matrix manipulation and probability are mandated. However, I believe s
     
 3. [3Blue1Brown Youtube Channel](https://www.youtube.com/c/3blue1brown)
 
+</details>
+
 ### Statistics
+
+<details>
 
 1. MIT-6.041-Probabilistic Systems Analysis and Applied Probability
     
@@ -272,7 +294,11 @@ Calculus, matrix manipulation and probability are mandated. However, I believe s
 
     - [MIT OCW Course Page](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-262-discrete-stochastic-processes-spring-2011/index.htm)
 
+</details>
+
 ### Advanced maths
+
+<details>
 
 1. Stanford-EE 364A/B-Convex Optimization
 
@@ -300,9 +326,10 @@ Calculus, matrix manipulation and probability are mandated. However, I believe s
 
     - [Course Page](http://www.cs.cmu.edu/~suvrit/teach/aopt.html)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 </details>
+<p align="right">(<a href="#top">back to top</a>)</p>
 
+---
 <!-- Natrue Science -->
 ## Nature Science
 ### Intro
@@ -310,9 +337,10 @@ In the MIT Program, two physics courses, one chemistry course and one biology co
 
 Therefore, I will only list some introductory course below.
 
-<details open>
-
 ### Physics
+
+<details>
+
 - [MIT 8.01 Mechanics](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.01.1x+3T2018/about)
 
 - [MIT 8.02 Electricity and Magnetism](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.02.1x+1T2019/about)
@@ -321,27 +349,45 @@ Therefore, I will only list some introductory course below.
 
 - [MIT 8.370 Quantum Information](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.370.1x+1T2018/about)
 
-### Chemistry
-- [MIT 5.111 Principles of Chemical Science](https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/index.htm)
-
-### Biology
-- [MIT 7.016 Introductory Biology](https://ocw.mit.edu/courses/biology/7-016-introductory-biology-fall-2018/index.htm)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 </details>
 
+### Chemistry
+
+<details>
+
+- [MIT 5.111 Principles of Chemical Science](https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/index.htm)
+
+</details>
+
+### Biology
+
+<details>
+
+- [MIT 7.016 Introductory Biology](https://ocw.mit.edu/courses/biology/7-016-introductory-biology-fall-2018/index.htm)
+
+</details>
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+---
 <!-- Introductory Subjects -->
 ## Introductory Subjects
 
-<details open>
+### Intro
+Introductory courses include basic programming, useful tools for future study as well as introduction to multiple fields.
 
 ### Introduction to EECS
+
+<details>
 
 - [MIT-6.01-Introduction to EE/CS vis Robotics](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/index.htm)
 
 - [MIT-6.02-Introduction to EE/CS via Communication Networks](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/index.htm)
 
+</details>
+
 ### CS Tools
+
+<details>
 
 - MIT-Missing Semester
 
@@ -349,7 +395,11 @@ Therefore, I will only list some introductory course below.
     
     - [2020 Video Lectures](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J)
 
+</details>
+
 ### Basic Programming
+
+<details>
 
 1. MIT-6.0001-Introduction to Computer Science and Programming in Python
 
@@ -382,14 +432,19 @@ Therefore, I will only list some introductory course below.
     - [Assignment Reference](https://github.com/PKUFlyingPig/CS61A)
     
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 </details>
+<p align="right">(<a href="#top">back to top</a>)</p>
 
+---
 <!-- Fundation Subjects -->
 ## Fundation Subjects
-<details open>
+
+### Intro
+Foundation courses include advance programming courses, algorithms and introduction to digital systems.
 
 ### Advanced programming
+
+<details>
 
 1. MIT-6.009-Fundamentals of Programming
 
@@ -417,7 +472,11 @@ Therefore, I will only list some introductory course below.
     
     - [Assignment Reference](https://github.com/PKUFlyingPig/CS110L)
 
+</details>
+
 ### Algorithms
+
+<details>
 
 1. MIT-6.006-Introduction to Algorithms
 
@@ -439,7 +498,11 @@ Therefore, I will only list some introductory course below.
     
     - [Assignment Reference](https://github.com/PKUFlyingPig/Princeton-Algorithm)
 
+</details>
+
 ### Digital Systems
+
+<details>
 
 1. MIT-6.004-Computation Structures
 
@@ -471,14 +534,19 @@ Therefore, I will only list some introductory course below.
     
     - [Assignment Reference](https://github.com/PKUFlyingPig/UCB-EE120)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 </details>
+<p align="right">(<a href="#top">back to top</a>)</p>
 
+---
 <!-- Header Subjects -->
 ## Header Subjects
-<details open>
+
+### Intro
+Header courses get you a glimpse of the enormous knowledge of computer science, which include software construction, computer systems, advanced algorithms and machine learning.
 
 ### Software Construction
+
+<details>
 
 1. MIT-6.031-Software Construction
 
@@ -510,7 +578,11 @@ Therefore, I will only list some introductory course below.
 
     - [Video Lectures](https://www.youtube.com/user/cscie75)
 
+</details>
+
 ### Computer Systems
+
+<details>
 
 1. MIT-6.033-Computer Systems (Contain all aspects, include OS,Network,Security...)
 
@@ -555,8 +627,18 @@ Therefore, I will only list some introductory course below.
     - [Official Website](https://www.nand2tetris.org/)
     
     - [Lab Reference](https://github.com/woai3c/nand2tetris)
+    
+6. ETHz-Computer Architecture
+
+    - [Fall 2017 Web Page](https://safari.ethz.ch/architecture/fall2017/doku.php?id=schedule)
+    
+    - [Fall 2017 Video Lectures](https://www.youtube.com/watch?v=wHVyshkyZ4w)
+
+</details>
 
 ### Advanced Algorithms
+
+<details>
 
 1. MIT-6.046-Design and Analysis of Algorithms
 
@@ -580,8 +662,11 @@ Therefore, I will only list some introductory course below.
     
     - [Assignment Reference](https://github.com/PKUFlyingPig/UCB-CS170)
 
+</details>
 
 ### Machine Learning
+
+<details>
 
 1. CMU-10-606-Maths Background for ML
 
@@ -623,12 +708,19 @@ Therefore, I will only list some introductory course below.
     
     - [Summer 2020 Video Lectures](https://www.youtube.com/watch?v=KzH1ovd4Ots&list=PLoROMvodv4rNH7qL6-efu_q2_bPuy0adh)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 </details>
+<p align="right">(<a href="#top">back to top</a>)</p>
 
+---
 <!-- Advanced Subjects -->
 ## Advanced Subjects
+
+### Intro
+Advanced courses introduce you to numerous advance fields in Computer Science, you can choose certain fields to learn according to your interest.
+
 ### Operating System
+
+<details>
 
 1. MIT-6.S081-Operating System
 
@@ -648,7 +740,11 @@ Therefore, I will only list some introductory course below.
     
     - [Textbook](http://ospp.cs.washington.edu/)
 
+</details>
+
 ### Distributed Systems
+
+<details>
 
 1. MIT-6.824-Distributed Systems
 
@@ -658,31 +754,392 @@ Therefore, I will only list some introductory course below.
     
     - [Assignment Reference](https://github.com/chaozh/MIT-6.824)
 
+</details>
+
 ### High performance Computing
 
-1. CMU-15-418-Parallel Computing
+<details>
+
+1. MIT-6.172-Performance Engineering of Software Systems (Introductory Course)
+
+    - [MIT OCW Page](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/index.htm)
+    
+    - [Fall 2018 Video Lectures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/lecture-videos/)
+
+2. CMU-15-418-Parallel Computing
 
     - [Spring 2016 Page](http://15418.courses.cs.cmu.edu/spring2016/)
     
     - [Spring 2016 Video Lectures](https://www.bilibili.com/video/BV16k4y1z7z9?p=1)
     
     - [Assignment Reference](https://github.com/PKUFlyingPig/CS149-parallel-computing)
+    
+3. UCB-CS 267-Applications of Parallel Computers
+
+    - [Spring 2021 Web Page](https://sites.google.com/lbl.gov/cs267-spr2021)
+    
+    - [Spring 2021 Video Lectures](https://www.youtube.com/watch?v=A_s9731_ylw&feature=youtu.be)
+
+4. UIUC-ECE 408-Applied Parallel Programming
+
+    - [Fall 2021 Web Page](https://wiki.illinois.edu/wiki/display/ECE408/Class+Schedule)
+    
+    - [Lab Github Page](https://github.com/illinois-impact/ece408_project)
+
+5. UIUC-ECE 508-Manycore Parallel Algorithms
+
+    - [Fall 2021 Web Page](http://lumetta.web.engr.illinois.edu/508/)
+    
+    - [Fall 2021 Video Lectures](https://mediaspace.illinois.edu/channel/ECE_CS%2B508_%2BFall%2B2021/225731413)
+
+    - [Lab Github Page](https://github.com/illinois-impact/gpu-algorithms-labs)
+
+6. Books
+
+    - The Art of Multiprocessor Programming by Maurice Herlihy
+    - Parallel Programming in C with MPI and OpenMP by Michael J. Qiunn
+
+</details>
 
 ### Computer Network
 
+<details>
+
+1. MIT-Computer Networking: A Top-Down Approach
+
+    - [Book Web Page](https://gaia.cs.umass.edu/kurose_ross/index.php)
+    
+    - [Video Lectures](https://gaia.cs.umass.edu/kurose_ross/lectures.php)
+    
+    - [Labs](https://gaia.cs.umass.edu/kurose_ross/wireshark.php)
+    
+    - [Assignment Reference](https://github.com/PKUFlyingPig/Computer-Network-A-Top-Down-Approach)
+    
+2. Stanford-CS 144-Introduction to Computer Networking
+
+    - [Fall 2021 Web Page](https://cs144.github.io/)
+    
+    - [Video Lectures](https://www.bilibili.com/video/av96841516?from=search&seid=8631568088034134203&spm_id_from=333.337.0.0)
+    
+    - [Lecture Notes](https://github.com/khanhnamle1994/computer-networking)
+    
+    - [Assignment Reference](https://github.com/PKUFlyingPig/CS144-Computer-Network)
+
+</details>
+
 ### Database
+
+<details>
+
+1. CMU-15-445-Database Systems
+
+    - [Fall 2021 Web Page](https://15445.courses.cs.cmu.edu/fall2021/schedule.html)
+    
+    - [Fall 2021 Video Lectures](https://www.youtube.com/watch?v=v4bU6n97Vr8&list=PLSE8ODhjZXjZaHA6QcxDfJ0SIWBzQFKEG&index=2)
+    
+    - [Labs and Assignments](https://15445.courses.cs.cmu.edu/fall2021/assignments.html)
+    
+    - [Assignment Reference](https://github.com/ysj1173886760/Learning/tree/master/db)
+
+2. CMU-15-721-Advanced Database Systems
+
+    - [Spring 2020 Web Page](https://15721.courses.cs.cmu.edu/spring2020/schedule.html)
+    
+    - [Projects](https://15721.courses.cs.cmu.edu/spring2020/projects.html)
+    
+    - [Assignment Reference](https://github.com/tallamjr/cmudb-15-721)
+    
+3. UCB-CS 186-Introduction to Database Systems
+
+    - [Spring 2022 Web Page](https://cs186berkeley.net/)
+    
+    - [Fall 2018 Video Lectures](https://www.bilibili.com/video/BV13a411c7Qo?from=search&seid=2338658253102616907&spm_id_from=333.337.0.0)
+    
+    - [Assignment Reference](https://github.com/PKUFlyingPig/CS186)
+
+</details>
 
 ### Compilers
 
+<details>
+
+1. Stanford-CS 143-Compilers
+
+    - [Web Page](http://web.stanford.edu/class/cs143/)
+    
+    - [Video Lectures](https://www.bilibili.com/video/av883559783?from=search&seid=3047595561276554335&spm_id_from=333.337.0.0)
+    
+    - [Assignment Reference](https://github.com/skyzluo/CS143-Compilers-Stanford)
+
+</details>
+
 ### Computer Security
+
+<details>
+
+1. MIT-6.858-Computer System Security
+
+    - [Spring 2020 Web Page](https://css.csail.mit.edu/6.858/2020/)
+    
+    - [Spring 2020 Video Lectures](https://www.youtube.com/watch?v=x6QsaB2aSmU)
+    
+    - [MIT OCW Page(Fall 2014)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/index.htm)
+    
+    - [Assignment Reference](https://github.com/FelixZhang00/mit6858-lab)
+    
+2. UCB-CS 161-Computer Security
+
+    - [Summer 2020 Web Page](https://su20.cs161.org/)
+    
+    - [Summer 2020 Video Lectures](https://www.youtube.com/playlist?list=PLfBkt1-_BHX9DbWPghcH3yLZwziYBGZ9F)
+    
+    - [Assignment Reference](https://github.com/PKUFlyingPig/UCB-CS161)
+
+</details>
+
+### Web Development
+
+<details>
+
+1. Stanford-CS 142-Web Applications
+
+    - [Winter 2022 Web Page](https://web.stanford.edu/class/cs142/index.html)
+    
+    - [Projects](https://web.stanford.edu/class/cs142/projects.html)
+    
+    - [Assignment Reference](https://github.com/hlnull/cs142)
+
+</details>
 
 ### Computer Graphics
 
+<details>
+
+1. MIT-6.837-Computer Graphics
+
+    - [MIT OCW Page](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-837-computer-graphics-fall-2012/)
+    
+    - [Autumn 2020 Video Lectures](https://www.youtube.com/watch?v=-LqUu61oRdk&list=PLQ3UicqQtfNuBjzJ-KEWmG1yjiRMXYKhh)
+    
+    - [Autumn 2019 Video Lectures](https://www.youtube.com/watch?v=t7g2oaNs-c8&list=PLQ3UicqQtfNuKZjdA3fY1_X9gXn13JLlW)
+
+    - [Assignment Github Reference](https://github.com/longnguyen1997/comp_graphics)
+    
+    - [Assignment Video Reference](https://www.youtube.com/watch?v=XYiwt2NP1KM)
+    
+2. Stanford-CS 148-Introduction to Computer Graphics and Imaging (No videos)
+
+    - [Fall 2021 Web Page](https://web.stanford.edu/class/cs148/)
+
+3. UCSB-GAMES Series
+
+    - [Web Page](http://games-cn.org/intro-graphics/)
+    
+    - [Video Lectures](https://www.bilibili.com/video/BV1X7411F744?from=search&seid=6212861232997301056&spm_id_from=333.337.0.0)
+    
+</details>
+    
 ### Deep Learning
 
+<details>
+
+1. MIT-6.S191-Intro to Deep Learning
+
+    - [Web Page](http://introtodeeplearning.com/)
+
+    - [Winter 2021 Video Lectures](https://www.youtube.com/watch?v=5tvmMX8r_OM&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
+
+    - [Lab Repo](https://github.com/aamini/introtodeeplearning)
+    
+2. Stanford-CS 230-Deep Learning
+
+    - [Web Page](http://cs230.stanford.edu/syllabus/)
+    
+    - [Autumn 2018 Video Lectures](https://www.youtube.com/watch?v=PySo_6S4ZAg&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
+    
+3. Taiwan University-Machine Learning
+
+    - [Web Page](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.php)
+    
+4. Stanford-CS 231n-Convolutional Neural Networks for Visual Recognition
+
+    - [Spring 2021 Web Page](http://cs231n.stanford.edu/)
+    
+    - [Spring 2017 Web Page](http://cs231n.stanford.edu/2017/)
+    
+    - [Spring 2017 Video Lectures](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
+    
+    - [Assignment Reference](https://github.com/limberc/Stanford-CS231n-Spring-2017)
+    
+5. Stanford-CS224n-Natural Language Processing
+
+    - [Winter 2019 Web Page](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/index.html#schedule)
+    
+    - [Winter 2019 Video Lectures](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
+    
+    - [Winter 2021 Web Page](http://web.stanford.edu/class/cs224n/index.html)
+    
+    - [Winter 2021 Video Lectures](https://www.youtube.com/watch?v=rmVRLeJRkl4&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
+    
+    - [Assignment Reference](https://github.com/PKUFlyingPig/CS224n)
+    
+6. Stanford-CS224u-Natural Language Understanding
+
+    - [Spring 2019 Web Page](https://web.stanford.edu/class/cs224u/2019/)
+    
+    - [Spring 2019 Video Lectures](https://www.youtube.com/watch?v=tZ_Jrc_nRJY&list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20)
+    
+    - [Spring 2021 Web Page](https://web.stanford.edu/class/cs224u/)
+    
+    - [Spring 2021 Video Lectures](https://www.youtube.com/watch?v=rha64cQRLs8&list=PLoROMvodv4rPt5D0zs3YhbWSZA8Q_DyiJ)
+    
+7. Stanford-CS224w-Machine Learning with Graphs
+
+    - [Fall 2021 Web Page](http://web.stanford.edu/class/cs224w/)
+    
+    - [Fall 2021 Video Lectures](https://www.youtube.com/watch?v=JAB_plj2rbA&list=RDCMUCBa5G_ESCn8Yd4vw5U-gIcg&start_radio=1&t=7s)
+    
+
+8. UCB-CS294-158-Deep Unsupervised Learning
+
+    - [Spring 2020 Web Page](https://sites.google.com/view/berkeley-cs294-158-sp20/home)
+    
+    - [Spring 2020 Video Lectures](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP)
+    
+9. MIT-6.S094-Deep Learning for Self-driving Cars
+
+    - [Video Lectures](https://www.youtube.com/watch?v=-6INDaLcuJY&list=PLts9ZnoIwN9MJOXSFal2wFImRjfUhmYSP)
+    
+    - [Course Repo](https://github.com/Carmezim/MIT-6.S094)
+    
+10. UCB-CS294-129-Designing, Visualizing and Understanding Deep Neural Networks
+
+    - [Fall 2016 Web Page](https://bcourses.berkeley.edu/courses/1453965/pages/cs294-129-designing-visualizing-and-understanding-deep-neural-networks)
+    
+    - [Fall 2016 Video Lectures](https://www.bilibili.com/video/BV1XW411u79U?from=search&seid=1183608113546831574&spm_id_from=333.337.0.0)
+
+11. Stanford-CS 330-Deep Multi-Task and Meta Learning
+
+    - [Fall 2019 Web Page](http://cs330.stanford.edu/fall2019/index.html)
+    
+    - [Fall 2019 Video Lectures](https://www.youtube.com/watch?v=0rZtSwNOTQo&list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5)
+    
+    - [Fall 2020 Web Page](https://cs330.stanford.edu/fall2020/index.html)
+    
+    - [Fall 2020 Video Lectures](https://www.youtube.com/watch?v=0KWT9wIYoF8&list=PLoROMvodv4rOxuwpC_raecBCd5Jf54lEa)
+    
+12. Cambridge University-Information Theory, Pattern Recognition, and Neural Networks
+
+    - [Web Page](http://www.inference.org.uk/mackay/itprnn/Slides.shtml)
+    
+    - [Video Lectures](https://www.youtube.com/watch?v=BCiZc0n6COY&list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6)
+
+</details>
+
+### Reinforcement Learning
+    
+<details>
+    
+1. UCB-CS285-Deep Reinforcement Learning
+
+    - [Web Page](http://rail.eecs.berkeley.edu/deeprlcourse/)
+    
+    - [Fall 2021 Video Lectures](https://www.youtube.com/watch?v=JHrlF10v2Og&list=PL_iWQOsE6TfXxKgI1GgyV1B_Xa0DxE5eH)
+
+2. UCB-CS 294-112-Deep Reinforcement Learning
+
+    - [Fall 2018 Web Page](http://rail.eecs.berkeley.edu/deeprlcourse-fa18/)
+    
+    - [Fall 2018 Video Lectures](https://www.youtube.com/playlist?list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37)
+
+3. Stanford-CS 234-Reinforcement Learning
+
+    - [Winter 2019 Web Page](https://web.stanford.edu/class/cs234/CS234Win2019/schedule.html)
+    
+    - [Winter 2019 Video Lectures](https://www.youtube.com/results?search_query=CS+234)
+    
+4. DeepMind-Advanced Deep Learning & Reinforcement Learning
+
+    - [Video Lectures](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
+    
+    - [Course Repo](https://github.com/enggen/DeepMind-Advanced-Deep-Learning-and-Reinforcement-Learning)
+
+</details>
+
 ### Advanced Machine Learning
+    
+<details>
+    
+1. MIT-18.409-Algorithmic Aspects of Machine Learning
+
+    - [MIT OCW Page](https://ocw.mit.edu/courses/mathematics/18-409-algorithmic-aspects-of-machine-learning-spring-2015/)
+    
+    - [Fall 2015 Video Lectures](https://www.youtube.com/playlist?list=PLB3sDpSRdrOvI1hYXNsa6Lety7K8FhPpx)
+
+2. MIT-9.520-Statistical Learning Theory And Applications
+
+    - [Fall 2021 Web Page](https://cbmm.mit.edu/9-520/syllabus)
+    
+    - [Fall 2021 Video Lectures](https://www.youtube.com/watch?v=4nPABKIuYKo&list=PLyGKBDfnk-iB4Xz_EAJNEgGF5I-6OzRNI)
+    
+3. UCB-CS 281B-Scalable Machine Learning
+
+    - [Web Page](http://alex.smola.org/teaching/berkeley2012/index.html)
+    
+    - [Video Lectures](https://www.youtube.com/watch?v=iyHEF8IjKgU)
+
+4. U Toronto-STAT 4273H-Large Scale Machine Learning
+
+    - [Winter 2015 Web Page](http://www.cs.toronto.edu/~rsalakhu/STA4273_2015/lectures.html)
+    
+    - [Video Lectures](https://video-archive.fields.utoronto.ca/event/323/2014)
+
+5. CMU-10-702-Statistical Machine Learning
+
+    - [Spring 2017 Web Page](https://www.stat.cmu.edu/~ryantibs/statml/)
+    
+    - [Spring 2017 Video Lectures](https://www.youtube.com/watch?v=Z1cSby8ZzhA&list=PLjbUi5mgii6B7A0nM74zHTOVQtTC9DaCv)
+
+6. CMU-10-708-Probabilistic Graphical Models
+
+    - [Fall 2019 Web Page](https://sailinglab.github.io/pgm-spring-2019/lectures/)
+
+7. Stanford-CS 228-Probabilistic Graphical Models
+
+    - [Coursera Video Lectures](https://www.bilibili.com/video/BV1X441127w7?from=search&seid=3087579441113824083&spm_id_from=333.337.0.0)
+    
+    - [Course Material](https://github.com/kushagra06/CS228_PGM)
+    
+8. Columbia-STAT 8201-Deep Generative Models
+
+    - [Web Page](http://stat.columbia.edu/~cunningham/teaching/GR8201/)
+    
+9.  U Toronto-STA 4273-Minimizing Expectations
+
+    - [Web Page](https://www.cs.toronto.edu/~cmaddis/courses/sta4273_w21/)
+    
+10. Books
+
+    Important:
+<br />
+    - PRML: Pattern Recognition and Machine Learning. Christopher Bishop
+    - AoS: All of Statistics. Larry Wasserman
+
+    Reference:
+<br />
+    - MLAPP: Machine Learning: A Probabilistic Perspective. Kevin Murphy
+    - Convex Optimization. Stephen Boyd and Lieven Vandenberghe
+    
+    Advanced:
+<br />
+    - W&J: Graphical Models, Exponential Families, and Variational Inference. Martin Wainwright and Michael Jordan
+    - Theory of Point Estimation. E. L. Lehmann and George Casella
 
 
+</details>
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+---
 <!-- License -->
 
 ## License
@@ -692,6 +1149,7 @@ If you believe there are copyright issues, please contact with me.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+---
 <!-- CONTRIBUTING -->
 
 ## Contributing
@@ -704,6 +1162,7 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+---
 <!-- CONTACT -->
 
 ## Contact
@@ -714,6 +1173,7 @@ Project Link: [https://github.com/Clover-Hill/CS-Self-Rescue-Manual](https://git
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+---
 <!-- ACKNOWLEDGMENTS -->
 
 ## Acknowledgments
