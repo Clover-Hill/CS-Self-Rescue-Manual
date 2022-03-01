@@ -12,7 +12,7 @@
 
 <div align="center">
   <a href="https://github.com/Clover-Hill/CS-Self-Rescue-Manual">
-    <img src="images/logo.png" alt="Logo" width="100" height="100">
+    <img src="images/logo.png" alt="Logo" width="300" height="300">
   </a>
 
 <h3 align="center">CS Self-Rescue Manual</h3>
