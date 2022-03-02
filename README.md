@@ -139,8 +139,9 @@ Before getting into any details about CS learning, I first want to share my two 
 <details open>
 
 There are already many projects about learning CS by yourself online, so first I am going to list some of the best projects that I've taken reference. Thank you for the inspiration.
+
 - [MIT Challenge by Scott H. Young](https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/)
-<br />
+
     This is the first project that I've come across while searching for resources. The arthor finished all MIT CS undergraduate courses in merely one year. Definitely make sure you check out his learning experience and his mindset while learning, which I find most helpful.
 
     He's also written several books about learning and I've taken several advice from his book [Ultralearning](https://www.scotthyoung.com/blog/ultralearning/). You can also check [my note on Ultralearning](Other%20Resources/Ultralearning%20Notes.pdf). 
